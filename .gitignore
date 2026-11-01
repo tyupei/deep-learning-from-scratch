@@ -1,0 +1,12 @@
+# MNIST のダウンロードデータ
+*.pkl
+*.gz
+
+# 学習済みパラメータ
+*.npz
+
+# Python のキャッシュ
+__pycache__/
+
+# Mac が自動で作るファイル
+.DS_Store
